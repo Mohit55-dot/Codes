@@ -28,7 +28,7 @@ int main ()
     }
     for (j=0;j<n;j++)
     {
-        printf("\n%d",a[j]);
+        printf("\n%d",a[j]); 
     }
 return 0;
 }

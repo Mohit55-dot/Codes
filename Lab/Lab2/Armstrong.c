@@ -9,7 +9,7 @@ int main ()
     temp = n;
     if (n<10)
     {
-        printf("Not a Palindrome:");
+        printf("Not a Armstrong:");
     }
     else
     {
@@ -21,11 +21,11 @@ int main ()
       }
       if(temp == sum)
       {
-        printf("\nIt is a palindrome:");
+        printf("\nIt is a Armstrong:");
       }
       else
       {
-        printf("\n It is not a palindrome:");
+        printf("\n It is not a Armstrong:");
         printf("\nThe sum is %d",sum);
       }
     
