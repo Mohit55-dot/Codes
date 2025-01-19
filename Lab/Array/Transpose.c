@@ -27,6 +27,7 @@ int main ()
     }}
 
     // Output
+    // Swap the itteration of i and j :
     printf("\nThe matrix after Transpose:\n");
     for (i=0;i<c;i++)
     {

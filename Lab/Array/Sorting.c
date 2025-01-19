@@ -1,4 +1,4 @@
- //For shorting  of array!!
+ //For sorting  of array!!
 #include<stdio.h>
 int main ()
 {
