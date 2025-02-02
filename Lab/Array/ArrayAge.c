@@ -29,7 +29,7 @@ int main ()
 // sum
  for(int i=0;i<n;i++)
     {
-      sum = sum + a[i];
+      sum = (sum + a[i]);
     }
     
      int l = n-1;
